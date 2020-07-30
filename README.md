@@ -20,7 +20,7 @@ soap
 		}
 	}
 2.    dependencies {
-	        implementation 'com.github.WoShiDiaoSi:Okhttp:1.0.0'
+	        implementation 'com.github.WoShiDiaoSi:Okhttp:1.0.2'
 	}
 
 ```	
