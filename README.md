@@ -1,6 +1,10 @@
 Okhttp
 ===
 
+简单的okhttp封装，支持一下请求
+*GET
+*POST
+*soap
 
 
 依赖
