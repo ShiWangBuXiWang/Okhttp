@@ -2,7 +2,6 @@ package com.wangbu.hs.okhttp
 
 import android.content.Context
 import android.os.Environment
-import com.wangbu.hs.myapplication.MD5keyUtil
 import java.io.*
 
 /**
