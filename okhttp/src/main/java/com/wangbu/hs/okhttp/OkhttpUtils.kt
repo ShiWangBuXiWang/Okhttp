@@ -4,9 +4,6 @@ import android.content.Context
 import android.text.TextUtils
 import android.util.Log
 import androidx.annotation.NonNull
-import com.taihao.jinxiaocukotlin.internetutil.*
-import com.taihao.jinxiaocukotlin.utils.StateUtils
-import com.taihao.jinxiaocukotlin.utils.StringUtil
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.core.Observer
 import io.reactivex.rxjava3.disposables.Disposable
