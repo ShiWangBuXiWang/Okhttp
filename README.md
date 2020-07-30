@@ -2,7 +2,9 @@ Okhttp
 ===
 
 
-```依赖
+
+依赖
+```
 1.    allprojects {
 		repositories {
 			...
@@ -10,7 +12,7 @@ Okhttp
 		}
 	}
 2.    dependencies {
-	        implementation 'com.github.WoShiDiaoSi:Okhttp:Tag'
+	        implementation 'com.github.WoShiDiaoSi:Okhttp:1.0.0'
 	}
 
 ```	
